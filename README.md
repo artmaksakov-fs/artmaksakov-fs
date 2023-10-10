@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artmaksakov-fs
+- 👋 Hi, I’m Art Maksakov
 - 👀 I’m interested in making an impact together !
 - 🌱 I’m currently learning FS architecture
 - 💞️ I’m looking to collaborate on DevOps projects
